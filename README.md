@@ -1,6 +1,6 @@
 # ST 495: Advanced Computing for Statistical Methods
 
-I completed a final project for ST 495: Advanced Computing for Statistical Methods. I was assigned project instructions with two major goals (a) conducting a simulation study and (b) implementing a bootstrapping approach. 
+I completed a final project for ST 495. I was assigned project instructions with two major goals (a) conducting a simulation study and (b) implementing a bootstrapping approach. 
 
 Please take a look at the ST_495_Final_Project.pdf for a description of my analysis.
 
