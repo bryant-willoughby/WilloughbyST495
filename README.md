@@ -1,6 +1,5 @@
 # ST 495: Advanced Computing for Statistical Methods
-
-I completed a final project for ST 495. I was assigned project instructions with two major goals (a) conducting a simulation study and (b) implementing a bootstrapping approach. 
+This project is based on a dataset that originates from the StatLib library at Carnegie Mellon University about city-cycle field consumption. I developed a model fitting procedure to predict city-cycle fuel consumption based on provided population features. To assess the performance of this estimation procedure, I constructed a simulation study. This involves simulating the estimation procedure numerous times from synthetically generated data. Then, I reconstructed the simulation study with a bootstrapping approach. This involves subsampling from the observed data numerous times before conducting the same estimation procedure.
 
 Please take a look at the ST_495_Final_Project.pdf for a description of my analysis.
 
